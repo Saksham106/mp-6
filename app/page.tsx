@@ -72,6 +72,8 @@ const Avatar = styled.img`
 const Info = styled.div`
   margin-bottom: 1vh;
   font-size: 1.1vw;
+  color: #1e293b;
+  font-weight: 500;
 `;
 
 const GithubLink = styled.a`
